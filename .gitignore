@@ -10,3 +10,6 @@ plots_2.py
 
 # data folder
 /data
+
+# mac files
+.DS_Store
