@@ -47,7 +47,8 @@ The current cost system is very basic. It assumes that the price total cost to p
 
 ## Running the Simulation
 
-The run.py script is used to ultimately run a simulation. It loads the simulation settings from the specified configuration yaml file. 
+1. Use the `makefile` to create a results folder.  
+2. The run.py script is used to ultimately run a simulation. It loads the simulation settings from the specified configuration yaml file. 
 
-* baseline.yaml is set up to run the simulation with the baseline 3 marketing campaigns 
-* You can create your own yaml configuration file to apply other marketing campaigns
+    * baseline.yaml is set up to run the simulation with the baseline 3 marketing campaigns 
+    * You can create your own yaml configuration file to apply other marketing campaigns

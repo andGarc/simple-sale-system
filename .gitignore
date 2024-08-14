@@ -4,3 +4,9 @@ runs/*
 
 # python environment
 env
+
+# test plots files
+plots_2.py
+
+# data folder
+/data
